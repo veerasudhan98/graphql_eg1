@@ -33,6 +33,11 @@ const booksData = [
     title: "Book 3",
     author: "Author 3",
   },
+  {
+    id: "4",
+    title: "Book 4",
+    author: "Author 4",
+  },
 ];
 
 const root = {
